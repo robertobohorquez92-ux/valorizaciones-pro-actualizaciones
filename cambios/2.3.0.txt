@@ -1,4 +1,0 @@
-Se mejoró la comprobación automática de actualizaciones.
-Se corrigieron errores en la seccion de valorizaciones.
-Se mejoró el item borrar metrados para cronogramas.
-Se corrigió la actualización de la suma del costo directo en la seccion CONTROL DE MONTOS

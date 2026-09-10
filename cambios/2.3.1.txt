@@ -1,1 +1,2 @@
-Se corrigió el Pie de Presupuesto en la seccion CONTROL DE MONTOS
+- Se corrigió el item de "Coeficientes de Reajuste de Valorizaciones".
+- Se corrigió el item "Deductivo que no corresponde por adelanto Directo".

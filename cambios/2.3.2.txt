@@ -1,2 +1,0 @@
-- Se corrigió el item de "Coeficientes de Reajuste de Valorizaciones".
-- Se corrigió el item "Deductivo que no corresponde por adelanto Directo".

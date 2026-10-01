@@ -1,0 +1,2 @@
+- Se aumentó una nueva función: "Resaltar Fila"
+- Se movió la opcion "Agregar +filas" al menú de Adelanto de Materiales.

@@ -1,2 +1,0 @@
-- Se aumentó una nueva herramienta, "Decimales", la cual funciona para los cronogramas programados.
-- En las opciones de cronogramas ahora se visualiza el mes al que corresponde cada valorizaciones.

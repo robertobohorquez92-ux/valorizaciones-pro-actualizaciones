@@ -2,4 +2,5 @@ NUEVO! Valorizaciones PRO ahora es portable.
 Lleva el programa a donde necesites con usb.
 Consulta como obtenerlo por WhatsApp.
 
-Descarga la version 3.0.3 desde el DRIVE
+Descarga la version 3.1.0 desde el DRIVE
+Se corrigió el acceso a exportaciones en excel. 
